@@ -1,1 +1,1 @@
-Print('You are such an Idiotttttttttttttt')
+Print('You are such an Idiotttttttttttttt losserrrrrrr')
